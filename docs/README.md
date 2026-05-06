@@ -1,7 +1,7 @@
 # Clara
 
-[![GitHub Pages](https://img.shields.io/badge/%20-FFFFFF?style=social&logo=githubpages&logoColor=black&logoSize=auto)](https://fjrodafo.github.io/Clara/)
-[![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/Clara?style=social&logo=github&logoColor=black&label=Stars&labelColor=FFFFFF&color=FFFFFF)](https://github.com/FJrodafo/Clara/stargazers)
+[![GitHub Pages](https://img.shields.io/badge/%20-FFFFFF?style=social&logo=githubpages&logoColor=000000&logoSize=auto)](https://fjrodafo.github.io/Clara/)
+[![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/Clara?style=social&logo=github&logoColor=000000&label=Stars&labelColor=FFFFFF&color=FFFFFF)](https://github.com/FJrodafo/Clara/stargazers)
 
 ## Index
 
