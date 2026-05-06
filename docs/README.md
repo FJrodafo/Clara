@@ -3,6 +3,8 @@
 [![GitHub Pages](https://img.shields.io/badge/%20-FFFFFF?style=social&logo=githubpages&logoColor=000000&logoSize=auto)](https://fjrodafo.github.io/Clara/)
 [![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/Clara?style=social&logo=github&logoColor=000000&label=Stars&labelColor=FFFFFF&color=FFFFFF)](https://github.com/FJrodafo/Clara/stargazers)
 
+[![Google Gemini](https://img.shields.io/badge/Gemini_3_Flash_Preview-8E75B2?style=flat&logo=googlegemini&logoColor=FFFFFF)](https://ai.google.dev/gemini-api/docs/models/gemini-3-flash-preview)
+
 ## Index
 
 1. [Introduction](#introduction)
